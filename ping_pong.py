@@ -1,7 +1,6 @@
 from turtle import Screen, Turtle
 from time import sleep
 
-
 class Paddle(Turtle):
     def __init__(self,x,y):
         super().__init__()
